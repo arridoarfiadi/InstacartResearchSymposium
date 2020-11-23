@@ -33,11 +33,12 @@
 
 ### Question 1
 
-![](https://github.com/arridoarfiadi/InstacartResearchSymposium/blob/master/photos/output1.png)
+![](https://github.com/arridoarfiadi/InstacartResearchSymposium/blob/master/photos/output2.png)
+
 
 ### Question 2
 
-![](https://github.com/arridoarfiadi/InstacartResearchSymposium/blob/master/photos/output2.png)
+![](https://github.com/arridoarfiadi/InstacartResearchSymposium/blob/master/photos/output1.png)
 
 
 ## RESULTS
